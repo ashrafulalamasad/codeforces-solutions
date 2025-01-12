@@ -1,0 +1,32 @@
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.class
+*.ilk
+*.pdb
+solution
+
+# Competitive programming
+test*
+*.txt
+*.in
+*.ans
+a.out
+
+# Memory
+/memory/
+
