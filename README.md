@@ -6,11 +6,12 @@ My solutions to Codeforces problems, written in C++.
 
 ```
 .
-├── *.cpp                    # Individual problem solutions
+├── solutions/               # Individual problem solutions
 ├── Assiut University Newcomers/
 │   ├── Sheet 1-10/
 │   ├── Contest 1-3.1/
 │   └── ...
+├── .gitignore
 └── README.md
 ```
 
