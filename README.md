@@ -6,7 +6,7 @@ My solutions to Codeforces problems, written in C++.
 
 ```
 .
-├── solutions/               # Individual problem solutions
+├── Solutions/               # Individual problem solutions
 ├── Assiut University Newcomers/
 │   ├── Sheet 1-10/
 │   ├── Contest 1-3.1/
