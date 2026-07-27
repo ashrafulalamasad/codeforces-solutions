@@ -21,9 +21,23 @@ int main()
 		bool hasLeft = !res.empty();
 		bool hasRight = j < s.size();
 		char fill = 'a';
-		if(hasLeft && !hasRight) fill = res.back();
-		else if(!hasLeft && hasRight) fill = s[j];
-		else if(hasLeft && hasRight){
+		if(hasLeft && !hasRight){
+			ll target = cost[res.back() - 'a'];
+			for(char c = 'a'; c <= 'z'; c++){
+				if(cost[c - 'a'] == target){
+					fill = c;
+					break;
+				}
+			}
+		}else if(!hasLeft && hasRight){
+			ll target = cost[s[j] - 'a'];
+			for(char c = 'a'; c <= 'z'; c++){
+				if(cost[c - 'a'] == target){
+					fill = c;
+					break;
+				}
+			}
+		}else if(hasLeft && hasRight){
 			ll low = min(cost[res.back() - 'a'], cost[s[j] - 'a']);
 			ll high = max(cost[res.back() - 'a'], cost[s[j] - 'a']);
 			for(char c = 'a'; c <= 'z'; c++){
