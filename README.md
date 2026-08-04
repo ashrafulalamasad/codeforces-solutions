@@ -189,19 +189,16 @@ All solutions are final — accepted submissions or corrected versions that pass
 
 ## About Me
 
-I am **Ashraful Alam**, a competitive programmer from Bangladesh. I actively participate in Codeforces rounds and maintain this repository as a personal archive of my solutions. You can find me on [LinkedIn](https://www.linkedin.com/in/ashrafulalam005/).
+I am **Ashraful Alam**, a competitive programmer from Bangladesh. I actively participate in Codeforces rounds and maintain this repository as a personal archive of my solutions.
 
 <div align="center">
-  <br>
-
-  <img src="https://img.shields.io/badge/Rating-1502-ff8c00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Rating">
-  <img src="https://img.shields.io/badge/Max-1502-ff8c00?style=for-the-badge" alt="Max Rating">
-  <img src="https://img.shields.io/badge/Rank-Specialist-9cf?style=for-the-badge" alt="Rank">
-  <img src="https://img.shields.io/badge/Contests-41-1565C0?style=for-the-badge" alt="Contests">
+  <a href="https://codeforces.com/profile/ashrafulalamasad">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ashrafulalamasad" alt="Codeforces Profile Card">
+  </a>
 
   <br><br>
 
-  <a href="https://codeforces.com/profile/ashrafulalamasad"><img src="https://img.shields.io/badge/Codeforces-ashrafulalamasad-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.linkedin.com/in/ashrafulalam005/"><img src="https://img.shields.io/badge/LinkedIn-ashrafulalam005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 I started competitive programming in early 2025 as a way to become a more disciplined problem solver. What began with basic syntax and simple implementation problems gradually evolved into a consistent routine of contest participation, upsolving, and topic-focused practice. I have worked through problems spanning data structures, dynamic programming, graph theory, number theory, combinatorics, and string algorithms.
