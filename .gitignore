@@ -9,6 +9,7 @@ Desktop.ini
 *.swp
 *.swo
 *~
+AGENTS.md
 
 # Build artifacts
 *.exe
